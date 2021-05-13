@@ -1,10 +1,11 @@
-package com.uniamerica.restaurante.entity;
+package com.uniamerica.restaurante.Entity;
 
 import javax.persistence.*;
 import java.time.LocalDate;
 
 @Entity
 @Table(name = "tb_sales")
+
 public class Sale {
 
     @Id

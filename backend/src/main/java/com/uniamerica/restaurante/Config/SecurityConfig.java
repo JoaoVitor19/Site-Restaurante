@@ -1,4 +1,4 @@
-package com.uniamerica.restaurante.config;
+package com.uniamerica.restaurante.Config;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

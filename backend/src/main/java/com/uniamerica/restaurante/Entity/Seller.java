@@ -1,4 +1,4 @@
-package com.uniamerica.restaurante.entity;
+package com.uniamerica.restaurante.Entity;
 
 import javax.persistence.*;
 import java.util.ArrayList;
